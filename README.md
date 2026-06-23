@@ -1,1 +1,1 @@
-# tiktok-onay
+tiktok-developers-site-verification=vewCd0PYt0KiudWpSwq74PK7bKByIKwW
